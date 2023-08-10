@@ -1,0 +1,2 @@
+# dmenu
+The suckless menu.
